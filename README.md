@@ -1,5 +1,7 @@
 # HTML5-CSS3
+
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDMz5txWEho2bi0brMi3eHqN3VkSRZlEgWSnrs_HG2Bg&s" width="30%">
+
 Estou fazendo meu primeiro repositório com praticas do curso de Programação Web da Via Certa,
 que faço de **QUARTA-FEIRA** das _**8h até as 10h**_
 

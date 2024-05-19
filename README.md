@@ -2,19 +2,19 @@
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDMz5txWEho2bi0brMi3eHqN3VkSRZlEgWSnrs_HG2Bg&s" width="30%">
 
-Estou fazendo meu primeiro repositório com praticas do curso de Programação Web da Via Certa,
-que faço de **QUARTA-FEIRA** das _**8h até as 10h**_
+## Curso De Programação WEB
+<h5> MODULO - APRENDENDO HTML5 </h5>
 
-Utilizando o #NOTEPAD++ para fazer o código e indentação
+<h5> HORÁRIO: 8H até 10H, Quarta-Feira </h5>
 
 ## HTML5
-O que aprendi:
-- Basico
-  - Tags de Estrutura
-  - Tags H1-H6
-  - Tags Font Size, Font Color, Font Face
-  - Tags body Bgcolor
-  - Tag DIV
-  - Tag a href=""
-  - Atributo targe="_blank"
-  - Atributo ID
+### Basico
+✔️ Conceitos Aprendidos:
+1. Tags de Estrutura
+2. Tags H1-H6
+3. Tags Font Size, Font Color, Font Face
+4. Tags body Bgcolor
+5. Tag DIV
+6. Tag a href=""
+7. tributo targe="_blank"
+8. Atributo ID

@@ -7,6 +7,13 @@
 
 <h5> HORÁRIO: 8H até 10H, Quarta-Feira </h5>
 
+<h5> UTILIZANDO NOTEPAD++ PARA <em>PROGRAMAR</em> </h5>
+
+<img src="https://i0.wp.com/upload.wikimedia.org/wikipedia/commons/f/f5/Notepad_plus_plus.png" width="70px">
+
+<hr>
+
+<font size="7"> <strong>LINGUAGENS</strong> </font>
 <div display="inline">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo">

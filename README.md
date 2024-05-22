@@ -33,3 +33,8 @@
 6. Tag a href=""
 7. tributo targe="_blank"
 8. Atributo ID
+9. Inserindo imagens
+10. Inserindo links nas imagens  
+11. Tabelas
+12. Formatando tabelas
+13. Frameset, frame (HTML4)

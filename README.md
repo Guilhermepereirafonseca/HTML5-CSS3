@@ -38,3 +38,8 @@
 11. Tabelas
 12. Formatando tabelas
 13. Frameset, frame (HTML4)
+14. Form (action, method, type, input)
+15. Label
+16. Script (Javasript)
+17. Embed e Bgsound
+18. Marquee

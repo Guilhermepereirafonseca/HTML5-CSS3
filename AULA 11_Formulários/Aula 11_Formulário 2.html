@@ -1,0 +1,34 @@
+<meta charset="UTF-8">
+<html>
+    <head>
+        <title>Formulário</title>
+    </head>
+    <body>
+        <form action="" method="post">
+        <fieldset>
+            <legend>Formulário de Cadastro</legend>
+            <label for="curso">Curso:</label>
+                <input type="text" size="25" maxlength="50"
+                name="curso" value="HTML5 + CSS3">
+            <p><labelfor="caixasenha">Senha:</label>
+                <input type="password" size="20" maxlength="100"
+                name="caixasenha">
+            <p><label for="civil">Estado Civil:</label>
+                <input type="radio" name="civil" value="Sol" checked> Solteiro(a)
+                <input type="radio" name="civil" value="Cas"> Casado(a)
+                <input type="radio" name="civil" value="Ama"> Amaziado(a)
+            <p>Instrumento Preferido:<br><input type="checkbox" name="item1" value="bateria"> Bateria
+            <br><input type="checkbox" name="item2" value="teclado"> Teclado 
+            <br><input type="checkbox" name="item3" value="guitarra"> Guitarra 
+            <p> Cidade:
+            <select name="cidade">
+                <option value="0">Selecione
+                <option value="taq">Taquaritinga
+                <option value="jab">Jaboticabal
+            </select>
+            <p>Deixe sua opinião aqui:
+            <br><textarea name="areadetexto" ROWS="6" COLS="45"></textarea>
+        </fieldset>
+        </form>
+    </body>
+</html>

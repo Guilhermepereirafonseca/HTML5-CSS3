@@ -1,0 +1,21 @@
+<meta charset="UTF-8">
+<html>
+    <head>
+        <title>Validação com Javascript</title>
+        <script> 
+            function valida(f){
+                if(f.nome.value==""){
+                    alert("O campo nome não pode ficar vazio!");
+                    return false;
+                }    
+            }
+        </script>
+    </head>
+    <body>
+        <form action="Form.html" method="GET" onsubmit="return valida(this);">
+            <p><label for="nome"> Nome:</label>
+            <input type="text" id="nome" name="nome"></p>
+            <input type="submit" value="Enviar">
+        </form>
+    </body>
+</html>

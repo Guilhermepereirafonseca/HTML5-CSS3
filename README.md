@@ -3,7 +3,7 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDMz5txWEho2bi0brMi3eHqN3VkSRZlEgWSnrs_HG2Bg&s" width="30%">
 
 ## Curso De Programação WEB
-<h5> MODULO - APRENDENDO HTML5 </h5>
+<h5> MODULO - APRENDENDO HTML5 & CSS3 </h5>
 
 <h5> HORÁRIO: 8H até 10H, Quarta-Feira </h5>
 

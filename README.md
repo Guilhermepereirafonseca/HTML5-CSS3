@@ -39,4 +39,29 @@
 
 ### AULA 6
 - Tag de Formatação
-  - &lt;sub&gt; (subescrito), &lt;sup&gt; (sobescrito), &lt;
+  - &lt;sub&gt; (subescrito), &lt;sup&gt; (sobescrito), &lt;s&gt; (taxado)
+- Tag DIV
+- Tag font size, color, face
+- Atributo bgcolor=""
+
+### AULA 7
+- Tag &lt;a href=""&gt; (Links)
+- Utilizando o ID
+- Atributo target="_blank"
+
+### AULA 8
+- Inserindo imagens &lt;img&gt;
+- Listas
+  - Ordenada &lt;ol&gt;
+
+### AULA 9
+- Criando um tabela
+  - table > tr (linha) > td (célula/coluna)
+
+### AULA 10
+- Formatando a tabela
+  - border, bgcolor, colspan, rowspan
+- Usando o frameset e frame
+
+### AULA 11
+- 

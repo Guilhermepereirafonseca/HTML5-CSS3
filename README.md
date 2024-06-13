@@ -23,23 +23,20 @@
 </div>
 
 ## HTML5
-### Basico
-✔️ Conceitos Aprendidos:
-1. Tags de Estrutura
-2. Tags H1-H6
-3. Tags Font Size, Font Color, Font Face
-4. Tags body Bgcolor
-5. Tag DIV
-6. Tag a href=""
-7. tributo targe="_blank"
-8. Atributo ID
-9. Inserindo imagens
-10. Inserindo links nas imagens  
-11. Tabelas
-12. Formatando tabelas
-13. Frameset, frame (HTML4)
-14. Form (action, method, type, input)
-15. Label
-16. Script (Javasript)
-17. Embed e Bgsound
-18. Marquee
+### AULA 3
+- Estrutura do HTML4
+- Linguagem de Marcação
+
+### AULA 4
+- Tag de Paragráfo
+- Atributo de Alinhamento (align)
+- Tag de Formatação
+  - &lt;b&gt; (negrito), &lt;i&gt; (itálico), &lt;u&gt; (sublinhado)
+
+### AULA 5
+- Tag &lt;h1&gt; - &lt;h6&gt;
+- Tag font - font size=""
+
+### AULA 6
+- Tag de Formatação
+  - &lt;sub&gt; (subescrito), &lt;sup&gt; (sobescrito), &lt;

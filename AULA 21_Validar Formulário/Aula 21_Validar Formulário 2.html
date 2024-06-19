@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="BR-pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Validação no HTML5</title>
+</head>
+<body>
+    <form action="" method="GET">
+        <label for="nome">Nome: </label>
+        <input type="text" id="nome" name="nome"autofocus required><br>
+        <label for="tel">Telefone: </label>
+        <input type="tel" id="tel" name="tel" required pattern="\([0-9]{2}\)[0-9]{4}-[0-9]{4}" title="(99)9999-9999"><br>
+        <input type="submit" value="Enviar">
+    </form>
+</body>
+</html>

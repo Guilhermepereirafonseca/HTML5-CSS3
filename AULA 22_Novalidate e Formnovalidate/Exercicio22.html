@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="BR-pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercício 22</title>
+</head>
+<body>
+    <form action="" method="GET">
+        <fieldset>
+            <legend>FORMULÁRIO DE CLIENTE</legend>
+            <label for="nome">Nome: </label>
+            <input type="text" id="nome" name="nome" maxlength="35" size="35" required><br><br>
+
+            <label for="cargo">Cargo: </label>
+            <label for="cargo">Cargo: </label>
+            <input type="text" id="cargo" name="cargo" maxlength="35" size="35" required><br><br>
+
+            <label for="tel">Tel: </label>
+            <input type="tel" id="tel" name="tel" title="(99)9999-9999" size="20" required pattern="\([0-9]{2}\)[0-9]{4}-[0-9]{4}" placeholder="(99)9999-9999"><br><br>
+            <label for="rg">RG: </label>
+            <input type="text" id="rg" name="rg" title="99.999.999.9" size="20" required pattern="[0-9]{2}.[0-9]{3}.[0-9]{3}-[0-9]{1}" placeholder="99.999.9999"><br><br>
+
+            <label for="cpf">CPF: </label>
+            <input type="text" id="cpf" title="999.999.999-99" name="cpf" size="20" required pattern="[0-9]{3}.[0-9]{3}.[0-9]{3}-[0-9]{}" placeholder="999.999.999-99">
+        </fieldset>
+
+        <br><input type="submit" value="Enviar">
+        <input type="reset" value="Limpar">
+    </form>
+</body>
+</html>

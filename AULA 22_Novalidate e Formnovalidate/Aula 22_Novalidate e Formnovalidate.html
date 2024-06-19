@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="BR-pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Validação no HTML5</title>
+</head>
+<body>
+    <fieldset>
+        <legend>Formulário 1</legend>
+    <form action="" method="GET" novalidate>
+        <label for="nome">Nome: </label>
+        <input type="text" id="nome" name="nome" required><br>
+        <label for="tel">Cidade: </label>
+        <input type="text" id="cidade" name="cidade" required><br>
+        <input type="submit" value="Enviar">
+        <input type="reset" value="Limpar">
+    </form>
+    </fieldset><br><br><br><br><br>
+    <fieldset>
+        <legend>Formulário 2</legend>
+    <form action="" method="GET">
+        <label for="nome">Nome: </label>
+        <input type="text" id="nome" name="nome" required><br>
+        <label for="tel">Curso: </label>
+        <input type="text" id="cidade" name="cidade" required><br>
+        <input type="submit" value="Enviar">
+        <input type="reset" value="Limpar">
+        <input type="submit" value="Salvar Rascunho" formnovalidate>
+    </form>
+    </fieldset>
+</body>
+</html>

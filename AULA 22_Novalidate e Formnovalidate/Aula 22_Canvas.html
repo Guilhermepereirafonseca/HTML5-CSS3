@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="BR-pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML5 Canvas</title>
+</head>
+<body>
+    <canvas id="canvas" width="300" height="200" style="border: 1px solid #000000">
+        <script type="text/javascript">
+            var c = document.getElementById("canvas");
+            var ctx=c.getContext("2d");
+            ctx.fillStyle = "blue";
+            ctx.beginPath();
+            ctx.arc(140,100,50,0,Math.PI*2,true);
+            ctx.closePath();
+            ctx.fill();
+        </script>
+    </canvas>
+</body>
+</html>

@@ -1,0 +1,20 @@
+body {
+    background: #CCCCCC url("neve.jpg") no-repeat fixed right bottom;
+    -webkit-background-size: 550px 400px;
+}
+
+h1 {
+    background: -webkit-gradient(linear, left top, right top, form(#CCCCCC), to(#000000));
+    color: transparent;
+    background: url("neve.jpg") repeat;
+    -webkit-background-clip: text;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: white;
+    font-size:  3em;
+}
+
+p {
+    color: #990000;
+    background-color: white;
+    font-size: 2em;
+}

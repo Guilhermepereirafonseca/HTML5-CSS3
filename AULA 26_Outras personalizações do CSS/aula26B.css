@@ -1,0 +1,11 @@
+body {
+    background: -webkit-gradient(linear, left top, right top, from(#1e5799), to(#2989d8));
+}
+h1 {
+    color: transparent;
+    background: url("Navio.jpg") repeat;
+    -webkit-background-clip: text;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: white;
+    font-size: 5em;
+}

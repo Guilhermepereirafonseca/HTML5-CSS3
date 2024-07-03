@@ -1,0 +1,11 @@
+h2.teste {
+    text-align: center;
+}
+
+p.teste1 {
+    margin: 5px 210px 1px 225px;
+    border: 1px solid black;
+    -webkit-column-count: 2;
+    -webkit-column-width: 100px;
+    -webkit-column-gap: 10px;
+}

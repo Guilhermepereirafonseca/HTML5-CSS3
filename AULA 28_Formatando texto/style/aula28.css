@@ -1,0 +1,22 @@
+h1 {
+    text-align: right;
+    text-decoration: underline;
+    text-transform: uppercase;
+    text-shadow: red 2px 2px 4px;
+}
+h2 {
+    text-align: center;
+    text-decoration: underline;
+    letter-spacing: 4px;
+    text-transform: lowercase;
+}
+h3 {
+    text-align: justify;
+    text-decoration: underline;
+    text-transform: none;
+} 
+p {
+    text-indent: 25px;
+    letter-spacing: 7px;
+    text-transform: capitalize;
+}

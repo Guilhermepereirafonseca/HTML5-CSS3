@@ -1,0 +1,17 @@
+h1 {
+    font-family: arial, tahoma, sans-serif;
+    font-style: oblique;
+    font-variant: small-caps;
+    font-weight: bold;
+    font-size: 5em;
+}
+h2 {
+    font-family: "Times New Roman", sans-serif;
+    font-style: italic;
+    font-variant: normal;
+    font-weight: 500;
+    font-size: 300%;
+}
+h3 {
+    font: oblique small-caps bold 5em arial, verdana, sans-serif;
+}

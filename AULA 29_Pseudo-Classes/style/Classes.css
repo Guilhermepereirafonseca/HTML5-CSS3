@@ -1,0 +1,25 @@
+a {
+    color: green;
+}
+
+li {
+    list-style: none;
+}
+
+a:link {
+    color:blue
+}
+
+a:visited {
+    color:red;
+}
+
+a:active {
+    background-color: yellow;
+}
+
+a:hover {
+    color: orange;
+    font-style: italic;
+    background-color: #0000ffcc;
+}

@@ -1,0 +1,33 @@
+/* body {
+     margin-top: 90px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    margin-left: 80px; 
+} */
+
+body {
+    margin: 90px 20px 10px 80px;
+}
+
+p {
+    margin: 20px 30px 40px 50px;
+    border-width: 5px;
+    border-style: dashed;
+    border-color: blue;
+}
+
+h1 {
+    background: pink;
+    padding: 50px 10px 10px 90px;
+    border-width: thick;
+    border-style: dotted;
+    border-color: red;
+}
+
+h2 {
+    background: green;
+    padding-left: 120px;
+    border-width: 15px;
+    border-style: outset;
+    border-color: yellow;
+}

@@ -1,0 +1,54 @@
+a {
+    color: green;
+}
+
+li {
+    list-style: none;
+}
+
+a:link {
+    color:blue;
+    text-decoration: none; /* tira o sublinhado do texto */
+}
+
+a:visited {
+    color:red;
+}
+
+a:active {
+    background-color: yellow;
+}
+
+a:hover {
+    color: orange;
+    font-style: italic;
+    background-color: #0000ffcc;
+}
+
+/* PARTE DAS CLASSES */
+
+a.carro {
+    color: #FFBB00;
+}
+
+a.moto {
+    color: #FF0000;
+}
+
+/* PARTE DOS ID's*/
+
+#c1 {
+    color: blue;
+}
+
+#c2 {
+    color: red;
+}
+
+#s1 {
+    color: orange;
+}
+
+#s2 {
+    color: green;
+}

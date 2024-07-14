@@ -100,4 +100,8 @@
   -  &lt;article&gt;
   -  &lt;aside&gt;
 
-### AULA 19 - Atributo Type #1
+### AULA 19 e 20- Atributo Type #1
+- Usando os atributos type
+
+### AULA 21 - Validar Formulário
+- Validando formulário

@@ -1,0 +1,24 @@
+.grupo {
+    width: 200px;
+    height: 150px;
+    background: green url('leao.png') no-repeat;
+    border: 10px dotted blue;
+    padding: 10px;
+    -webkit-background-size: cover;
+}
+
+#quadro1 {
+    -webkit-background-origin: border-box;
+}
+
+#quadro2 {
+    -webkit-background-origin: padding-box;
+}
+
+#quadro3 {
+    -webkit-background-origin: content-box;
+}
+
+p {
+    background-color: white;
+}

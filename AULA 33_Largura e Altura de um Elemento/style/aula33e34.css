@@ -1,0 +1,47 @@
+#coluna1 {
+    width: 100px;
+    height: 300px;
+    float: left;
+    border-width: 3px;
+    border-style: dashed;
+    border-color: blue;
+}
+
+#coluna2 {
+    width: 300px;
+    height: 200px;
+    float: right;
+    border-width: 7px;
+    border-style: solid;
+    border-color: black;
+}
+
+#coluna3 {
+    width: 133px;
+    height: 400px;
+    float: left;
+    border-width: 9px;
+    border-style: double;
+    border-color: orange;
+}
+
+#A1 {
+    position: absolute;
+    left: 100px;
+    bottom: 100px;
+    z-index: 1;
+}
+
+#A2 {
+    position: absolute;
+    left: 170px;
+    bottom: 155px;
+    z-index: 2;
+}
+
+#A3 {
+    position: absolute;
+    left: 240px;
+    bottom: 215px;
+    z-index: 3;
+}

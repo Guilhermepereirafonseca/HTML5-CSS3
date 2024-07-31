@@ -1,0 +1,16 @@
+body {
+    background: -webkit-gradient(linear, left top, right top, from(#E00216), to(#1900E0));
+}
+
+#borda {
+    margin: 200px 100px 30px 50px;
+    background: -webkit-gradient(linear, left top, right top, from(#000000), to(#CCCCCC));
+    border: solid 10px black;
+    -webkit-border-radius: black 15px;
+    -webkit-border-shadow: white 8px 5px 6px;
+}
+
+h1 {
+    color: #000000;
+    background-color: white;
+}

@@ -1,0 +1,39 @@
+body {
+    background-color: #B0C4DE;
+    margin: 20px;
+}
+
+h3 {
+    color: #838c98;
+    background-color: #ffffff;
+    padding: 10px;
+    text-align: center;
+}
+
+img {
+    border: 1px solid #EEEEE0;
+    width: 200px;
+    height: 150px;
+}
+
+.imagem {
+    float: left;
+    width: 210px;
+    height: 180px;
+    margin: 10px;
+    padding: 5px;
+    background-color: #F5F5F5;
+    border-right: #a5a7aa solid 1px;
+    border-bottom: #a5a7aa solid 1px;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+span {
+    color: #191970;
+    font-family: Tahoma, sans-serif;
+    font-size: 10pt;
+}

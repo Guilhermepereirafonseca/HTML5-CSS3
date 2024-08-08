@@ -1,0 +1,46 @@
+.LOG
+
+		16:02 07/08/2024
+
+- Mudei a line page superior para portugues.
+- Coloquei minha foto de perfil no formato circular (radius 100%).
+	- Mudei a mensagem abaixo da minha foto.
+- Mudei a parte de baixo de 'PORTFOLIO' para '2 SITES'
+	- Foi removido algumas imagens e textos desse mesmo local, só deixando 2.
+- Mudei o 'ABOUT ME' para 'SOBRE MIM'.
+	- Texto também foi alterado.
+- O 'CONTACT ME' foi alterado para 'ME CONTATE'.
+- O rodapé da página e seus icones de rede sociais foram arrumados para que funcionem, junto com seus textos.
+
+		16:34 07/08/2024
+
+- Arrumando a line page com nome escrito errado de 'PORTIFOLIO' >> 'PORTFOLIO'.
+- Colocando para portugues o formulário, e arrumando algumas propriedades.
+- Adicionei um icone novo da aba do meu site (peguei da icon-icons).
+
+		09:16 08/08/2024
+
+- Revisando as notações acima.
+
+		11:29 08/08/2024
+
+- Mudei o rodapé da página.
+	- coloquei a tag <strong> no rodapé também.
+- Alterei o botão de enviar o formulário para cor preta de fundo, letra branca e borda cinza.
+- Mudei o '2 SITES' para 'PROJETOS'.
+- Mudei dois icones do site PROJETOS && SOBRE MIM.
+- Mudando as fotos na parte do 'PROJETOS'.
+- Adicionando os projetos na mesma pasta do Projeto_Final.
+- Mudando o texto de cada card para português que fizesse sentido.
+- Colocando o link do projeto da LÂMPADA.
+- Coloquei o link do projeto do CRÔNOMETRO.
+- Mudei o fundo aonde se encontra minha foto.
+	
+	15:26 08/08/2024
+
+- Mudei a cor de fundo de alguns lugares da página
+	- Vendo as variaveis do CSS para fazer isso
+
+	17:26 08/08/2024
+
+- Hospedei meu site utilizando Github Pages (Meu-Site)

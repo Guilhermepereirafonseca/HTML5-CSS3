@@ -36,11 +36,13 @@
 - Coloquei o link do projeto do CRÔNOMETRO.
 - Mudei o fundo aonde se encontra minha foto.
 	
-	15:26 08/08/2024
+		15:26 08/08/2024
 
 - Mudei a cor de fundo de alguns lugares da página
 	- Vendo as variaveis do CSS para fazer isso
 
-	17:26 08/08/2024
+		17:26 08/08/2024
 
 - Hospedei meu site utilizando Github Pages (Meu-Site)
+
+LINK: https://guilhermepereirafonseca.github.io/Meu-Site/

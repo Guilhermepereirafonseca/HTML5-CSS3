@@ -1,0 +1,106 @@
+body {
+    background: url("https://ak.picdn.net/shutterstock/videos/1058044378/thumb/1.jpg");
+}
+
+.pagina {
+    margin: 30px;
+    font-size: 3em;
+    text-align: center;
+    text-transform: uppercase;
+    color: white;
+}
+
+nav {
+    width: 200px;
+    height: 200px;
+    float: left;
+}
+
+ul {
+    background-color: #CCCCCC;
+    padding: 6px;
+    margin: 0;
+}
+
+li {
+    list-style: none;
+}
+
+a:link {
+    display: block;
+    color: #ffffff;
+    text-decoration: none;
+    padding: 15px 10px 15px 10px;
+    background-color: #1a0ef0;
+    margin-bottom: 2px;
+    font: 14px Verdana, arial, sans-serif;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+a:visited {
+    color: #77f777;
+}
+
+a:hover {
+    color: #000000;
+    background-color: #ffffff;
+
+}
+
+.conteudo {
+	text-align: center;
+	background-color: blue;
+	color: white;
+}
+
+legend {
+	display: block;
+	color: white;
+	text-decoration: none;
+	padding: 15px 10px 15px 10px;
+    margin-bottom: 2px;
+	font: 20px arial;
+	text-align: center;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+p {
+	text-align: justify;
+	font-size: 16px;
+}
+
+img {
+	width: 200px;
+	float: initial;
+    background-repeat: no-repeat;
+}
+
+section {
+	background: -webkit-gradient(linear, left top, right top, from(#1e5799), to(#2989d8));
+	padding: 10px;
+	margin: 50px;
+}
+
+article {
+	margin: 0px 10px 10px 210px;
+	background-color: white;
+	border: 5px solid black;
+}
+
+footer {
+	margin:50px;
+	background-color: blue;
+	color: white;
+}
+
+#textorodape {
+	text-align: center;
+	font-weight: bold;
+}
+
+#titulo {
+	padding-left: 10px;
+}
